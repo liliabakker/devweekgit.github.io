@@ -1,2 +1,2 @@
 # devweekgit.github.io
-Projeto - Curriculo do Jornada Dev EBAC 
+Projeto desenvolvido na semana Jornada DEV EBAC - Curriculo
